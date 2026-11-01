@@ -1,0 +1,6 @@
+{
+  "name": "Subulu Salaam",
+  "description": "Markaza Subulu-Salaam - Appii Bulchiinsa Barattootaa, Hifzii, Qaayidaa, Shuruuxa Salaataa, Hadiisa, Argama fi Deeggarsaa Ustaaz Fu'aad Ahmad",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
